@@ -336,6 +336,8 @@ button {
      text-transform: uppercase;
      color: #fff;
      line-height: 40px;
+     width: 60%;
+     height: 60%;
 }
 
 .text-bg {
