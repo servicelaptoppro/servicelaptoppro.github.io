@@ -37,7 +37,7 @@ html {
 body {
      color: #666666;
      font-size: 14px;
-     font-family: 'Poppins', sans-serif;
+     /* font-family: 'Poppins', sans-serif; */
      line-height: 1.80857;
      font-weight: normal;
 }
@@ -794,14 +794,14 @@ font-size: 21px;
 /** footer **/
 
 .multi {
-     color: #2bcc91;
+     color: #000000;
      font-weight: bold;
-     font-size: 40px;
+     font-size: 12px;
 }
 
 .footer {
      border-top: #000 solid 1px;
-     font-family: Poppins;
+     font-family: Coronetscript, cursive;
      background: #fff;
      padding-top: 100px;
 }
@@ -814,17 +814,26 @@ font-size: 21px;
      text-align: left;
 }
 
-.cont h3 {
+/* .cont h3 {
      color: #0c0c0e;
      font-size: 37px;
      line-height: 55px;
      font-weight: bold;
+} */
+
+.cont h3 {
+     color: #0c0c0e;
+     font-size: 12px;
+     line-height: 20px;
+     font-weight: bold;
 }
+
+
 
 .cont_call h3 {
      color: #0c0c0e;
-     font-size: 50px;
-     line-height: 60px;
+     font-size: 8px;
+     line-height: 10px;
      font-weight: bold;
 }
 
